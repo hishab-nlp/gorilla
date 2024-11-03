@@ -205,6 +205,12 @@ MODEL_METADATA_MAPPING = {
         "MeetKai",
         "MIT",
     ],
+    "meetkai/functionary-small-v3.2-FC": [
+        "Functionary-Small-v3.2 (FC)",
+        "https://huggingface.co/meetkai/functionary-small-v3.1",
+        "MeetKai",
+        "MIT",
+    ],
     "meetkai/functionary-medium-v3.1-FC": [
         "Functionary-Medium-v3.1 (FC)",
         "https://huggingface.co/meetkai/functionary-medium-v3.1",

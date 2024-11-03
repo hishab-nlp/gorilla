@@ -72,6 +72,7 @@ api_inference_handler_map = {
     "gemini-1.0-pro-002-FC": GeminiHandler,
     "meetkai/functionary-small-v3.1-FC": FunctionaryHandler,
     "meetkai/functionary-medium-v3.1-FC": FunctionaryHandler,
+    "meetkai/functionary-small-v3.2-FC": FunctionaryHandler,
     "databricks-dbrx-instruct": DatabricksHandler,
     "command-r-plus-FC": CohereHandler,
     "command-r-plus": CohereHandler,
