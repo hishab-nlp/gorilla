@@ -8,4 +8,4 @@ class FunctionaryHandler(OpenAIHandler):
         super().__init__(model_name, temperature)
         self.model_style = ModelStyle.OpenAI
 
-        self.client = OpenAI(base_url="http://localhost:8000/v1", api_key="functionary")
+        self.client = OpenAI(base_url="http://38.128.232.8:38492/v1", api_key="functionary")

@@ -22,7 +22,8 @@ class OpenAIHandler(BaseHandler):
     def __init__(self, model_name, temperature) -> None:
         super().__init__(model_name, temperature)
         self.model_style = ModelStyle.OpenAI
-        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        # self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self.client = OpenAI(api_key="functionary") # api_key in functionary is not working, that's why we defined here.
 
     def decode_ast(self, result, language="Python"):
         if "FC" not in self.model_name:
