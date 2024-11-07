@@ -163,6 +163,7 @@ UNDERSCORE_TO_DOT = [
     "meetkai/functionary-small-v3.2-FC",
     "meetkai/functionary-medium-v3.1-FC",
     "meetkai/functionary-medium-v3.2-FC",
+    "hishab/functionary-medium-v3.2-awq-FC",
     "NousResearch/Hermes-2-Pro-Llama-3-8B",
     "NousResearch/Hermes-2-Pro-Llama-3-70B",
     "NousResearch/Hermes-2-Pro-Mistral-7B",

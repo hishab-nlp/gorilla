@@ -223,6 +223,12 @@ MODEL_METADATA_MAPPING = {
         "MeetKai",
         "MIT",
     ],
+    "hishab/functionary-medium-v3.2-awq-FC": [
+        "Functionary-Medium-v3.2 AWQ (FC)",
+        "https://huggingface.cohishab/functionary-medium-v3.2-awq",
+        "MeetKai",
+        "MIT",
+    ],
     "claude-2.1": [
         "Claude-2.1 (Prompt)",
         "https://www.anthropic.com/news/claude-2-1",

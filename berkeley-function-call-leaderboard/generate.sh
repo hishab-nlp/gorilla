@@ -1,2 +1,2 @@
-# bfcl generate --model meetkai/functionary-small-v3.2-FC --test-category parallel_multiple --num-threads 5
-bfcl generate --model gpt-4o-mini-2024-07-18-FC --test-category irrelevance --num-threads 5
+bfcl generate --model meetkai/functionary-medium-v3.2-FC --test-category parallel_multiple --num-threads 1
+# bfcl generate --model claude-3-haiku-20240307-FC --test-category simple --num-threads 5
